@@ -40,3 +40,6 @@
     font-weight: 600;
     margin-bottom: 0.25em;
   }
+  .input-wrapper:not(:last-child){
+    margin-bottom: 1.2em;
+  }
