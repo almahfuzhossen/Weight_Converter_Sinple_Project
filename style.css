@@ -43,3 +43,8 @@
   .input-wrapper:not(:last-child){
     margin-bottom: 1.2em;
   }
+  @media screen and (max-width: 28em) {
+    .container {
+      font-size: 14px;
+    }
+  }
